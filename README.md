@@ -99,7 +99,7 @@ El objetivo central es predecir si un cliente suscribirá un depósito a plazo f
 ```
 bank-marketing-pyspark/
 │
-├── TallerClass_Beltran_MEJORADO.ipynb   # Notebook principal del taller
+├── TallerClass_Beltran.ipynb   # Notebook principal del taller
 ├── README.md                            # Este archivo
 │
 ├── data/
